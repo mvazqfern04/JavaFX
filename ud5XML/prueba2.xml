@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<materia horas="300">
+    <nombre>juan</nombre>
+    <titular>programacion</titular>
+    <matriculados>
+        <alumno id="1">
+            <nombre>yo</nombre>
+            <apellidos>no</apellidos>
+            <calificacion>10</calificacion>
+        </alumno>
+        <alumno id="2">
+            <nombre>yotu</nombre>
+            <apellidos>si</apellidos>
+            <calificacion>7</calificacion>
+        </alumno>
+        <alumno id="3">
+            <nombre>mario</nombre>
+            <apellidos>vazquez</apellidos>
+            <calificacion>5</calificacion>
+        </alumno>
+    </matriculados>
+</materia>
